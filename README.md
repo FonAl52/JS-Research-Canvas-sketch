@@ -6,8 +6,8 @@ Ce projet utilise la bibliothèque canvas-sketch pour créer une animation inter
 ## Prérequis
 Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
 
-Node.js (version 14.x ou supérieure)
-Git
+- Node.js (version 14.x ou supérieure)
+- Git
 
 ## Cloner le Dépôt
 Pour cloner le projet depuis GitHub, ouvrez votre terminal et exécutez les commandes suivantes :
@@ -52,5 +52,5 @@ canvas-sketch-util : Pour les utilitaires liés aux graphiques et aux mathémati
 Les contributions sont les bienvenues ! Si vous avez des suggestions ou des améliorations, veuillez créer une pull request ou ouvrir une issue.
 
 ## License
-Ce projet est sous la licence MIT. Consultez le fichier LICENSE pour plus d'informations.
+Ce projet est sous la licence MIT.
 
